@@ -1,4 +1,4 @@
-Flywheel
+Flywheel 1.2
 ========
 :Build: |build|_ |coverage|_
 :Documentation: http://flywheel.readthedocs.org/
